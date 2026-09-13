@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="t">
+  <title id="t">Andelis Studio avatar: the studio mark on a night-blue ground</title>
+  <!-- Profile-picture version: plain night background, mark scaled to 72 % so a circular crop keeps every stroke. -->
+  <rect width="1024" height="1024" fill="#0e1320"/>
+  <g transform="translate(512 512) scale(23) translate(-16 -16)">
+    <path d="M5.5 28.5 16 8.5 26.5 28.5" fill="none" stroke="#e9e6de" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M10.6 21.5h10.8" fill="none" stroke="#e9e6de" stroke-width="3.2" stroke-linecap="round"/>
+    <path fill="#e3c46a" d="M16 2l1.6 2.9 2.9 1.6-2.9 1.6L16 11l-1.6-2.9-2.9-1.6 2.9-1.6z"/>
+  </g>
+</svg>

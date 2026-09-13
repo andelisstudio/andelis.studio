@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 32 32" role="img" aria-labelledby="t">
+  <title id="t">Andelis Studio mark: a capital A whose apex is a four-pointed star</title>
+  <!-- Transparent background. Strokes: night ink; star: brass. The same three paths, in currentColor, live inline in index.html. -->
+  <path d="M5.5 28.5 16 8.5 26.5 28.5" fill="none" stroke="#1a1c24" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M10.6 21.5h10.8" fill="none" stroke="#1a1c24" stroke-width="3.2" stroke-linecap="round"/>
+  <path fill="#7a5c0f" d="M16 2l1.6 2.9 2.9 1.6-2.9 1.6L16 11l-1.6-2.9-2.9-1.6 2.9-1.6z"/>
+</svg>

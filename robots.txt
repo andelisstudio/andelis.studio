@@ -1,0 +1,5 @@
+# andelis.studio: one static page, nothing to hide. The 404 page carries its own noindex.
+User-agent: *
+Allow: /
+
+Sitemap: https://andelis.studio/sitemap.xml
